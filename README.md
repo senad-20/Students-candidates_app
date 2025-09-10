@@ -98,9 +98,21 @@ Use the search tool to filter students by name, NNI, academic year, etc.
 
 Export selected records to CSV/Excel or BOURSE format.
 
+## Screenshots
+
+![Dashboard](https://github.com/senad-20/Students-candidates_app/blob/main/Screenshots/dashboard.png "Dashboard")
+
+
+![Profile](https://github.com/senad-20/Students-candidates_app/blob/main/Screenshots/profile.png "Profile")
+
+
+![excelexport](https://github.com/senad-20/Students-candidates_app/blob/main/Screenshots/excelexport.png "Excel export")
+
+
 ## 👨‍💻 Author
 
 Developed by Senad.
+
 
 
 
